@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-This annotates the below function’s parameters and return values with the appropriate types
+This annotates the below function’s parameters and return values
+with the appropriate types
 
     def element_length(lst):
         return [(i, len(i)) for i in lst]
