@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 This function import wait_random from the previous python file that
-I’ve written and write an async routine called wait_n that takes 
+I’ve written and write an async routine called wait_n that takes
 n 2 int arguments (in this order): n and max_delay. You will spawn
 wait_random n times with the specified max_delay.
 
